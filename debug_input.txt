@@ -1,0 +1,42 @@
+Array
+(
+    [database_fundamentals] => Not Interested
+    [computer_architecture] => Not Interested
+    [distributed_computing] => Not Interested
+    [cyber_security] => Not Interested
+    [networking] => Not Interested
+    [software_development] => Not Interested
+    [programming_skills] => Not Interested
+    [project_management] => Not Interested
+    [computer_forensics] => Not Interested
+    [technical_communication] => Not Interested
+    [ai_ml] => Not Interested
+    [software_engineering] => Not Interested
+    [business_analysis] => Not Interested
+    [communication_skills] => Not Interested
+    [data_science] => Not Interested
+    [troubleshooting_skills] => Not Interested
+    [graphics_designing] => Not Interested
+)
+Array
+(
+    [Database Fundamentals] => Not Interested
+    [Computer Architecture] => Not Interested
+    [Distributed Computing Systems] => Not Interested
+    [Cyber Security] => Not Interested
+    [Networking] => Not Interested
+    [Software Development] => Not Interested
+    [Programming Skills] => Not Interested
+    [Project Management] => Not Interested
+    [Computer Forensics Fundamentals] => Not Interested
+    [Technical Communication] => Not Interested
+    [AI ML] => Not Interested
+    [Software Engineering] => Not Interested
+    [Business Analysis] => Not Interested
+    [Communication skills] => Not Interested
+    [Data Science] => Not Interested
+    [Troubleshooting skills] => Not Interested
+    [Graphics Designing] => Not Interested
+)
+
+JSON Sent: {"Database Fundamentals":"Not Interested","Computer Architecture":"Not Interested","Distributed Computing Systems":"Not Interested","Cyber Security":"Not Interested","Networking":"Not Interested","Software Development":"Not Interested","Programming Skills":"Not Interested","Project Management":"Not Interested","Computer Forensics Fundamentals":"Not Interested","Technical Communication":"Not Interested","AI ML":"Not Interested","Software Engineering":"Not Interested","Business Analysis":"Not Interested","Communication skills":"Not Interested","Data Science":"Not Interested","Troubleshooting skills":"Not Interested","Graphics Designing":"Not Interested"}

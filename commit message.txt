@@ -1,0 +1,17 @@
+added the signin and login functionalities.
+ user based authentication.
+ logout page to close session
+
+
+ 24.02.2025 
+ Created and integrated the machine learning model for predicted the three best career paths.
+
+ 26.02.2025
+ added hot news link to the navbar. this should contain the trending topics and notifications
+ php files to be added by kuchana and gogi
+
+added 'view more' button to the career prediction. the bio pages for the careers should be added by kuchana and gogi
+..................
+. passwords:     .
+. aditya@123456  .
+..................

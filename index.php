@@ -1,5 +1,6 @@
 <?php  
-session_start();
+include 'auth_check.php';
+requireLogin();
 ?>
 
 <!DOCTYPE html>

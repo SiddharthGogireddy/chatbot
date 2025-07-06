@@ -1,6 +1,9 @@
 <?php
     include 'header.php';
+    include 'auth_check.php';
+    requireLogin();
 ?>
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -226,7 +229,12 @@
             <li class="career-item">Software Tester <a href='software_tester.php'>Click here</a></li>
             <li class="career-item">Software Developer <a href='software_developer.php'>Click here</a></li>
             <li class="career-item">Networking Engineer <a href='networking_engineer.php'>Click here</a></li>
+            <li class="career-item">Data Scientist <a href='data_scientist.php'>Click here</a></li>
+            <li class="career-item">Customer Service Executive <a href='customer_service_executive.php'>Click here</a></li>
+            <li class="career-item">database_administrator <a href='database-administrator.php'>Click here</a></li>
             <li class="career-item">Helpdesk Engineer <a href='helpdesk_engineer.php'>Click here</a></li>
+            <li class="career-item">Graphics Designer <a href='graphics_designer.php'>Click here</a></li>
+            <li class="career-item">Hardware Engineer <a href='hardware_engineer.php'>Click here</a></li>
         </ul>
     </div>
 
